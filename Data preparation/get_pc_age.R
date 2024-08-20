@@ -1,4 +1,4 @@
-# R script to get the continuous covariates (10 PCs and age)
+# R script to get the quantitative covariates (10 PCs and age)
 
 # Load the R data object file containing the dataset
 load("/data/SBBS-FreydinLab/ukbb/studies/distropy/data/incom.Robj")
